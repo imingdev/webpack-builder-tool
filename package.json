@@ -1,6 +1,6 @@
 {
   "name": "webpack-builder-tool",
-  "version": "1.0.0-beta",
+  "version": "1.0.0-beta-1",
   "author": "mingdev <mingdev@163.com>",
   "main": "lib/builder.js",
   "dependencies": {
